@@ -1,0 +1,2 @@
+If you pop the smoke in trophy as a ct, you will have a much harder view of the enemies than they have of you. This is due to color contrast.
+If you are to do this, make sure to chose a headshot angle.
